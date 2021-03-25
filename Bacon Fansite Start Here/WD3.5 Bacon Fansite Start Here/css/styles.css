@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  font-family: cursive;
+  font-size: 50px;
+}
+
+
+img:hover {
+  background-color: gold;
+}
+
+
+p {
+  font-family: open sans;
+  font-style: italic;
+  font-weight: 400;
+}
+
+p:hover {
+  background-color: green;
+}
+
+.bacon {
+  background-color: green;
+}
+
+.broccoli {
+  background-color: red;
+}
